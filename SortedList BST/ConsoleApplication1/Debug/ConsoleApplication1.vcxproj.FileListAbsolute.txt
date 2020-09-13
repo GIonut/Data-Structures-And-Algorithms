@@ -1,0 +1,2 @@
+E:\IONUT\Semestrul 2\Data Structures And Algorithms\SortedList BST\ConsoleApplication1\Debug\ConsoleApplication1.exe
+E:\IONUT\Semestrul 2\Data Structures And Algorithms\SortedList BST\ConsoleApplication1\Debug\ConsoleApplication1.pdb

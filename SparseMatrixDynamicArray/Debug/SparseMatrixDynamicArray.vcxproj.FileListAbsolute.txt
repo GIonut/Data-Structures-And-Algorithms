@@ -1,0 +1,2 @@
+E:\IONUT\Semestrul 2\Data Structures And Algorithms\SparseMatrixDynamicArray\Debug\SparseMatrixDynamicArray.exe
+E:\IONUT\Semestrul 2\Data Structures And Algorithms\SparseMatrixDynamicArray\Debug\SparseMatrixDynamicArray.pdb

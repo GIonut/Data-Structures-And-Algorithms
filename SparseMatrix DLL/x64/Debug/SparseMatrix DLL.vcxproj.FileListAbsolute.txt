@@ -1,0 +1,2 @@
+E:\IONUT\Semestrul 2\Data Structures And Algorithms\SparseMatrix DLL\x64\Debug\SparseMatrix DLL.exe
+E:\IONUT\Semestrul 2\Data Structures And Algorithms\SparseMatrix DLL\x64\Debug\SparseMatrix DLL.pdb

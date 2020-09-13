@@ -1,0 +1,2 @@
+E:\IONUT\Semestrul 2\Data Structures And Algorithms\Set hash\Set HashTable\Debug\Set HashTable.exe
+E:\IONUT\Semestrul 2\Data Structures And Algorithms\Set hash\Set HashTable\Debug\Set HashTable.pdb

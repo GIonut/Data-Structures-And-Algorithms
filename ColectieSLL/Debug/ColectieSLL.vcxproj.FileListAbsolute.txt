@@ -1,0 +1,2 @@
+E:\IONUT\Semestrul 2\Data Structures And Algorithms\ColectieSLL\Debug\ColectieSLL.exe
+E:\IONUT\Semestrul 2\Data Structures And Algorithms\ColectieSLL\Debug\ColectieSLL.pdb
